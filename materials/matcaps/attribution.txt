@@ -1,0 +1,7 @@
+Matcap Textures by SEspider Productions and Pixologic
+Licensed under Creative Commons Attribution-ShareAlike 3.0 (CC BY-SA 3.0)
+https://creativecommons.org/licenses/by-sa/3.0/
+
+Modifications: The original PNG textures have been converted to DDS format.
+
+See https://www.deviantart.com/sespider/art/163-FREE-MatCaps-258893793
